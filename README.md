@@ -20,3 +20,6 @@
   
   * Xview
   https://pan.baidu.com/s/1ARrcDpwksCXfcs-YZVQ4EA?pwd=8888
+
+  * DOTA
+  https://pan.baidu.com/s/1bPcvrFKDN-zI8FGn9982sw?pwd=8888
