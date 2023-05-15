@@ -1,5 +1,5 @@
 # Dataset
-这个仓库用来收集我使用过的一些数据集
+这个仓库用来收集整理一些数据集
 
 - 图像分类
     * 花卉数据集
@@ -42,4 +42,20 @@
   
   * aircraft(机场-飞机检测)
   https://pan.baidu.com/s/1zu0FMdnp0rwoIDy-xrfd2Q?pwd=8888
+  
+- 其它数据集调研整理(仅调研)
+   - 无人机遥感小目标检测数据集	
+      - DroneVehicle	https://github.com/VisDrone/DroneVehicle
+      - AU-AIR 	https://bozcani.github.io/auairdataset
+      - VisDrone 	https://github.com/VisDrone/VisDrone-Dataset
+      - NWPU VHR-10	https://pan.baidu.com/s/1VxooSn4TL3TldCgNx6YK4Q?pwd=d4bs
+      - UAVDT	https://sites.google.com/view/grli-uavdt
+      - ITCVD	https://eostore.itc.utwente.nl:5001/fsdownload/zZYfgbB2X/ITCVD
+      - DOTA	https://captain-whu.github.io/DOTA/dataset.html
+   - 卫星遥感小目标检测数据集	
+      - RSOD	https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
+      - xView	https://pan.baidu.com/s/1ARrcDpwksCXfcs-YZVQ4EA?pwd=8888
+      - TGRS-HRRSD	https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset
+      - DIOR	https://pan.baidu.com/s/1Sxo5rWq7F3sq49mjDqZhtg?pwd=RSAI
+      - VEDAI	https://downloads.greyc.fr/vedai/
   
