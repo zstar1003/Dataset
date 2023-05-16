@@ -43,6 +43,11 @@
   * aircraft(机场-飞机检测)
   https://pan.baidu.com/s/1zu0FMdnp0rwoIDy-xrfd2Q?pwd=8888
   
+- 图像分割
+   * DeepGlobe(遥感影像道路分割)
+  https://pan.baidu.com/s/1chOnMUIzcKUzQr1LpuJohw?pwd=8888
+  
+  
 - 其它数据集调研整理(仅调研)
    - 无人机遥感小目标检测数据集	
       - DroneVehicle	https://github.com/VisDrone/DroneVehicle
