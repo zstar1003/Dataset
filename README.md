@@ -16,8 +16,11 @@
   * COCO2017
   https://pan.baidu.com/s/1Axp52qsY4CiCqyfHlRqUfQ?pwd=8888
 
-  * VOC2007
+  * VOC2007(原始格式)
   https://pan.baidu.com/s/1kf-0iMtwdSfwm5fle5vwxw?pwd=8888
+
+  * VOC2007(处理过/txt标签格式)
+  https://pan.baidu.com/s/1uZFzJKz4uGrYuHQa252Jgg?pwd=8888
   
   * VisDrone
   https://pan.baidu.com/s/1TtCmd2vlSZKawu947AFlsg?pwd=8888
