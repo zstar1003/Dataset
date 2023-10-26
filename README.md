@@ -70,6 +70,7 @@
       - UAVDT	https://sites.google.com/view/grli-uavdt
       - ITCVD	https://eostore.itc.utwente.nl:5001/fsdownload/zZYfgbB2X/ITCVD
       - DOTA	https://captain-whu.github.io/DOTA/dataset.html
+      - CARPK  https://lafi.github.io/LPN/ (纯车辆类别)
    - 卫星遥感小目标检测数据集	
       - RSOD	https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
       - xView	https://pan.baidu.com/s/1ARrcDpwksCXfcs-YZVQ4EA?pwd=8888
