@@ -24,6 +24,8 @@
   
   * VisDrone
   https://pan.baidu.com/s/1TtCmd2vlSZKawu947AFlsg?pwd=8888
+  类别数：10 包含类别：行人、人物、自行车、车辆、面包车、卡车、三轮车、遮阳篷三轮车、公交车、摩托车
+  论文地址：https://arxiv.org/pdf/2001.06303.pdf
   
   * Xview
   https://pan.baidu.com/s/1ARrcDpwksCXfcs-YZVQ4EA?pwd=8888
