@@ -28,9 +28,6 @@
   类别数：10 包含类别：行人、人物、自行车、车辆、面包车、卡车、三轮车、遮阳篷三轮车、公交车、摩托车
   
   论文地址：https://arxiv.org/pdf/2001.06303.pdf
-  
-  * Xview
-  https://pan.baidu.com/s/1ARrcDpwksCXfcs-YZVQ4EA?pwd=8888
 
   * DOTA(v2.0)
   https://pan.baidu.com/s/1bPcvrFKDN-zI8FGn9982sw?pwd=8888
@@ -55,6 +52,41 @@
 
   * CARPK(纯车辆检测-可见光-无人机40米俯拍)
   https://pan.baidu.com/s/1CwozpF0D6aHlchKfyx0bQQ?pwd=8888
+
+- 红外-可见光融合检测数据集
+  * TNO
+
+    文献：The TNO Multiband Image Data Collection(报告形式)
+    https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
+
+  * INO
+
+    https://www.ino.ca/en/technologies/video-analytics-dataset/videos/
+
+  * RoadScene
+
+    https://github.com/hanna-xu/RoadScene
+
+  * MSRS
+
+    https://github.com/Linfeng-Tang/MSRS
+    
+  * LLVIP
+
+    文献：LLVIP: A Visible-infrared Paired Dataset for Low-light Vision
+    https://bupt-ai-cz.github.io/LLVIP/
+
+  * M3FD
+
+    文献：Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection
+    https://github.com/JinyuanLiu-CV/TarDAL
+
+  * VisDrone-DroneVehicle
+
+    文献：Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning
+    https://github.com/VisDrone/DroneVehicle
+    
+  
   
 - 图像分割
    * DeepGlobe(遥感影像道路分割)
